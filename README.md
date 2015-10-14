@@ -1,3 +1,4 @@
+# GoodOkk edition
 # MASSCAN: Mass IP port scanner
 
 This is the fastest Internet port scanner. It can scan the entire Internet
